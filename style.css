@@ -18,6 +18,7 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
+    align-items: center;
     background-color: rgb(29, 25, 25);
     width: 360px;
     height: 610px;
